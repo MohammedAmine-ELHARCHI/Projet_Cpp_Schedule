@@ -1,1 +1,1 @@
-Web Application for School Timetable Management
+## Web Application for School Timetable Management
